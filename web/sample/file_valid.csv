@@ -1,0 +1,6 @@
+id,client,name,state,city,zipcode,streetAddress
+,Client_name, Property_name,WA,COVINGTON,98042,26003 174 Ave SE
+,Client_name1, Property_name1,WA,SPOKANE,99212,8104 E Nora Ave
+,Client_name2, Property_name2,WA,PORT ANGELES,98362,1227 E 4 St
+,Client_name, Property_name,WA,BREMERTON,98312,2113 N Wycoff Ave
+150,Client_name, Property_name,VI,Hampton,27611,1282 Garlston Dr

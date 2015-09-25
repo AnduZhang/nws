@@ -1,0 +1,2 @@
+AlertID,AlertDate,AlertMagnitude,AlertSeverity,PropertyID,PropertyStreetAddress,PropertyCity,PropertyState,PropertyZipcode,PropertyClient,PropertyLatitude,PropertyLongitude,PropertyStatus
+180,2015-01-15T19:37:00-06:00,,Moderate,1,"1610 Amphitheatre Pkwy","Mountain View",CA,94043,UploadTT,35.11,-91.21,0

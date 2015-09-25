@@ -1,0 +1,2 @@
+AlertID,AlertDate,AlertMagnitude,AlertSeverity,Event,PropertyID,PropertyStreetAddress,PropertyCity,PropertyState,PropertyZipcode,PropertyClient,PropertyLatitude,PropertyLongitude,PropertyStatus
+2207,"Aug 31, 2015 21:21",,Moderate,Other,32,"1925 Partridge Ln",Waterloo,IA,50701,nres_test,42.4526,-92.3933,2

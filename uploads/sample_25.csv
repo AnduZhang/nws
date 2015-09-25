@@ -1,0 +1,26 @@
+id,client,name,state,city,zipcode,streetAddress
+,nres_test,property_1,AZ,CHINO VALLEY,86323,3225 Malapai Dr
+,nres_test,property_2,NV,LAS VEGAS,89142,1833 Winterwood Blvd
+,nres_test,property_3,MO,SUNRISE BEACH,65079,456 Forestridge Lane
+,nres_test,property_4,HI,AIEA,96701,98 -1040 Moanalua Rd 1-203
+,nres_test,property_5,CA,STOCKTON,95205,1827 Funston Avenue
+,nres_test,property_6,CO,Colorado Springs,80909,2501 Fairway Dr
+,nres_test,property_7,MD,BALTIMORE,21239,2008 Swansea Rd
+,nres_test,property_8,NM,DEMING,88030,650 HIGHLAND DR NE
+,nres_test,property_9,NJ,Roselle,07203,125   Hillcrest Ter
+,nres_test,property_10,TN,Cordova,38016,10173 Evening Hill
+,nres_test,property_11,WY,ETNA,83118,880 Stewart Creek Rd
+,nres_test,property_12,UT,SALT LAKE CITY,84120,2912 S Quest Cir
+,nres_test,property_13,IN,Fort Wayne,46816,5911 Southcrest Rd
+,nres_test,property_14,IL,Hamilton,62341,151 North 10th St
+,nres_test,property_15,OH,Mason,45040,990 Sheffield Dr
+,nres_test,property_16,PA,Windber,15963,194 Maple Park
+,nres_test,property_17,NH,Salisbury,03268,152 Franklin Rd
+,nres_test,property_18,WI,Wisconsin Dells,53965,N8856 Lewiston Station Rd
+,nres_test,property_19,MI,Twin Lake,49457,281 Hawthorne Dr
+,nres_test,property_20,VA,Bealeton,22712,11231  FREEDOM COURT
+,nres_test,property_21,FL,Pompano Beach,33062,413 Briny Av
+,nres_test,property_22,MN,Saint Paul,55112,1910 ROCKSTONE LANE
+,nres_test,property_23,GA,Forest Park,30297,549 VENTURA DRIVE
+,nres_test,property_24,TX,Dallas,75227,6128 EVERGLADE RD
+,nres_test,property_25,WA,Longview,98632,4 Cottonwood Place

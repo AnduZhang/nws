@@ -1,0 +1,2 @@
+AlertID,AlertDate,AlertMagnitude,AlertSeverity,PropertyID,PropertyStreetAddress,PropertyCity,PropertyState,PropertyZipcode,PropertyClient,PropertyLatitude,PropertyLongitude,PropertyStatus
+429,1422317700,3,,6,"1610 Amphitheatre Pkwy","Mountain View",CA,94043,1,43.76,-88.48,1

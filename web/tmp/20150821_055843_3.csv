@@ -1,0 +1,2 @@
+AlertID,AlertDate,AlertMagnitude,AlertSeverity,Event,PropertyID,PropertyStreetAddress,PropertyCity,PropertyState,PropertyZipcode,PropertyClient,PropertyLatitude,PropertyLongitude,PropertyStatus
+3,"Aug 21, 2015 02:26",,Moderate,Other,2,"213 S 8th Ave",Wauchula,FL,33873,"another client",27.545,-81.8135,2

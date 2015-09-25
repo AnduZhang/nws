@@ -1,0 +1,3 @@
+AlertID,AlertDate,AlertMagnitude,AlertSeverity,PropertyID,PropertyStreetAddress,PropertyCity,PropertyState,PropertyZipcode,PropertyClient,PropertyLatitude,PropertyLongitude,PropertyStatus
+412,1422509040,,Moderate,1,"1610 Amphitheatre Pkwy","Mountain View",CA,94043,UploadTT,30.49,-84.53,0
+412,1422509040,,Moderate,3,"1610 Amphitheatre Pkwy","Mountain View",CA,94043,UploadTT,30.48,-84.55,1

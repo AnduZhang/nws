@@ -1,0 +1,107 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M512 192c-213.333 0-395.52 132.693-469.333 320 73.813 187.307 256 320 469.333 320 213.547 0 395.52-132.693 469.333-320-73.813-187.307-255.787-320-469.333-320zM512 725.333c-117.76 0-213.333-95.573-213.333-213.333s95.573-213.333 213.333-213.333 213.333 95.573 213.333 213.333-95.573 213.333-213.333 213.333zM512 384c-70.613 0-128 57.387-128 128s57.387 128 128 128 128-57.387 128-128-57.387-128-128-128z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"tags": [
+					"visibility"
+				],
+				"grid": 24
+			},
+			"attrs": [],
+			"properties": {
+				"id": 156,
+				"order": 1,
+				"prevSize": 24,
+				"code": 58880,
+				"name": "view"
+			},
+			"setIdx": 0,
+			"iconIdx": 156
+		},
+		{
+			"icon": {
+				"paths": [
+					"M128 736v160h160l472.107-472.107-160-160-472.107 472.107zM883.413 300.587c16.64-16.64 16.64-43.733 0-60.373l-99.627-99.627c-16.64-16.64-43.733-16.64-60.373 0l-78.080 78.080 160 160 78.080-78.080z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"tags": [
+					"edit"
+				],
+				"grid": 24
+			},
+			"attrs": [],
+			"properties": {
+				"id": 521,
+				"order": 5,
+				"prevSize": 24,
+				"code": 58881,
+				"name": "edit"
+			},
+			"setIdx": 0,
+			"iconIdx": 521
+		},
+		{
+			"icon": {
+				"paths": [
+					"M512 85.333c-235.733 0-426.667 190.933-426.667 426.667s190.933 426.667 426.667 426.667 426.667-190.933 426.667-426.667-190.933-426.667-426.667-426.667zM725.333 664.96l-60.373 60.373-152.96-152.96-152.96 152.96-60.373-60.373 152.96-152.96-152.96-152.96 60.373-60.373 152.96 152.96 152.96-152.96 60.373 60.373-152.96 152.96 152.96 152.96z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"tags": [
+					"cancel"
+				],
+				"grid": 24
+			},
+			"attrs": [],
+			"properties": {
+				"id": 677,
+				"order": 3,
+				"prevSize": 24,
+				"code": 58882,
+				"name": "delete"
+			},
+			"setIdx": 0,
+			"iconIdx": 677
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "nres"
+	},
+	"preferences": {
+		"showGlyphs": true,
+		"showQuickUse": false,
+		"showQuickUse2": true,
+		"showSVGs": true,
+		"fontPref": {
+			"prefix": "ico-",
+			"metadata": {
+				"fontFamily": "nres",
+				"majorVersion": 1,
+				"minorVersion": 0
+			},
+			"metrics": {
+				"emSize": 1024,
+				"baseline": 6.25,
+				"whitespace": 50
+			},
+			"ie7": false
+		},
+		"imagePref": {
+			"prefix": "icon-",
+			"png": true,
+			"useClassSelector": true,
+			"color": 4473924,
+			"bgColor": 16777215
+		},
+		"historySize": 100,
+		"showCodes": true
+	}
+}
